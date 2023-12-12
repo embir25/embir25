@@ -5,6 +5,7 @@
 🔧 Tech Stack:
 - 💾 MongoDB
 - ⚛️ React.js
+- ⚛️ Next.js
 - 🚀 Express.js
 - 🌐 Node.js
 - 📜 JavaScript & TypeScript
