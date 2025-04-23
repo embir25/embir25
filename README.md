@@ -8,6 +8,8 @@
 - ⚛️ Next.js
 - 🚀 Express.js
 - 🌐 Node.js
+- 🌐 React Native
+- 🌐 MYSQL & POSTGRES
 - 📜 JavaScript & TypeScript
 - 🎨 CSS, Tailwind CSS and more
 
